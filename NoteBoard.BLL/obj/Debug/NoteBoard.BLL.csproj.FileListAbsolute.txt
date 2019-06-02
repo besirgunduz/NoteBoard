@@ -1,0 +1,51 @@
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.BLL.dll.config
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.BLL.dll
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.BLL.pdb
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.DAL.dll
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.Model.dll
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.DAL.pdb
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.DAL.dll.config
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.Model.pdb
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.BLL\obj\Debug\NoteBoard.BLL.csprojAssemblyReference.cache
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.BLL\obj\Debug\NoteBoard.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.BLL\obj\Debug\NoteBoard.BLL.csproj.CopyComplete
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.BLL\obj\Debug\NoteBoard.BLL.dll
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.BLL\obj\Debug\NoteBoard.BLL.pdb
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.BLL.dll.config
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.BLL.dll
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.BLL.pdb
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.BLL\bin\Debug\EntityFramework.dll
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.DAL.dll
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.Model.dll
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.DAL.pdb
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.DAL.dll.config
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.Model.pdb
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.BLL\bin\Debug\EntityFramework.xml
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.BLL\obj\Debug\NoteBoard.BLL.csprojAssemblyReference.cache
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.BLL\obj\Debug\NoteBoard.BLL.csproj.CoreCompileInputs.cache
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.BLL\obj\Debug\NoteBoard.BLL.csproj.CopyComplete
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.BLL\obj\Debug\NoteBoard.BLL.dll
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.BLL\obj\Debug\NoteBoard.BLL.pdb
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.BLL.dll.config
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.BLL.dll
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.BLL.pdb
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.BLL\bin\Debug\EntityFramework.dll
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.DAL.dll
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.Model.dll
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.DAL.pdb
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.DAL.dll.config
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.BLL\bin\Debug\NoteBoard.Model.pdb
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.BLL\bin\Debug\EntityFramework.xml
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.BLL\obj\Debug\NoteBoard.BLL.csprojAssemblyReference.cache
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.BLL\obj\Debug\NoteBoard.BLL.csproj.CoreCompileInputs.cache
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.BLL\obj\Debug\NoteBoard.BLL.csproj.CopyComplete
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.BLL\obj\Debug\NoteBoard.BLL.dll
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.BLL\obj\Debug\NoteBoard.BLL.pdb

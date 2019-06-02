@@ -1,0 +1,18 @@
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.Model\bin\Debug\NoteBoard.Model.dll
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.Model\bin\Debug\NoteBoard.Model.pdb
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Model.csprojAssemblyReference.cache
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Model.csproj.CoreCompileInputs.cache
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Model.dll
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Model.pdb
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.Model\bin\Debug\NoteBoard.Model.dll
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.Model\bin\Debug\NoteBoard.Model.pdb
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Model.csprojAssemblyReference.cache
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Model.csproj.CoreCompileInputs.cache
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Model.dll
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Model.pdb
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.Model\bin\Debug\NoteBoard.Model.dll
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.Model\bin\Debug\NoteBoard.Model.pdb
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Model.csprojAssemblyReference.cache
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Model.csproj.CoreCompileInputs.cache
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Model.dll
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Model.pdb

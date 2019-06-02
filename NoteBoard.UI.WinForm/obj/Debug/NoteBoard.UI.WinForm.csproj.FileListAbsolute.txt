@@ -1,0 +1,81 @@
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.UI.WinForm.exe.config
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.UI.WinForm.exe
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.UI.WinForm.pdb
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\EntityFramework.dll
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.BLL.dll
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.Model.dll
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.DAL.dll
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.BLL.pdb
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.BLL.dll.config
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.Model.pdb
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\EntityFramework.xml
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.DAL.pdb
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.DAL.dll.config
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.csprojAssemblyReference.cache
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.frmAdmin.resources
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.frmLogin.resources
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.frmMain.resources
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.frmPassword.resources
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.frmRegister.resources
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.Properties.Resources.resources
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.csproj.GenerateResource.cache
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.csproj.CopyComplete
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.exe
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\07-Entity\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.pdb
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.UI.WinForm.exe.config
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.UI.WinForm.exe
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.UI.WinForm.pdb
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\EntityFramework.dll
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.BLL.dll
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.Model.dll
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.DAL.dll
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.BLL.pdb
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.BLL.dll.config
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.Model.pdb
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\EntityFramework.xml
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.DAL.pdb
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.DAL.dll.config
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.csprojAssemblyReference.cache
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.frmAdmin.resources
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.frmLogin.resources
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.frmMain.resources
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.frmPassword.resources
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.frmRegister.resources
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.Properties.Resources.resources
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.csproj.GenerateResource.cache
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.csproj.CopyComplete
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.exe
+C:\Users\besir\Desktop\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.pdb
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.UI.WinForm.exe.config
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.UI.WinForm.exe
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.UI.WinForm.pdb
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\EntityFramework.dll
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.BLL.dll
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.DAL.dll
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.Model.dll
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.BLL.pdb
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.BLL.dll.config
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.DAL.pdb
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.DAL.dll.config
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\NoteBoard.Model.pdb
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\EntityFramework.xml
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.csprojAssemblyReference.cache
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.frmAdmin.resources
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.frmLogin.resources
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.frmMain.resources
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.frmPassword.resources
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.frmRegister.resources
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.Properties.Resources.resources
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.csproj.GenerateResource.cache
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.csproj.CopyComplete
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.exe
+C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.UI.WinForm\obj\Debug\NoteBoard.UI.WinForm.pdb
