@@ -12,8 +12,6 @@ namespace NoteBoard.Model
         public string PasswordText { get; set; }
 
         public int UserID { get; set; }
-
-        //LazyLoading =>>>>birbirine bagli olarak tanimlanmis componentlerin tamaminin bir seferde yuklenmesi yerine istemci tarafindan cagrildiginda yuklenmesine olanak veren yapi. 
         public virtual User User { get; set; }
 
     }

@@ -13,8 +13,8 @@ namespace NoteBoard.DAL
         protected override void Seed(NoteBoardDbContext context)
         {
             User user = new User();
-            user.FirstName = "Gizem";
-            user.LastName = "İşeri";
+            user.FirstName = "Beşir";
+            user.LastName = "Gündüz";
             user.UserName = "admin";
             user.UserRole = UserRole.Admin;
             user.IsActive = true;
