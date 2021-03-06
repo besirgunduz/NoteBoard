@@ -12,7 +12,7 @@ namespace NoteBoard.DAL
 {
     class NoteBoardDbContext:DbContext
     {
-        public NoteBoardDbContext():base("Server=. ; Database= NoteBoardDb; uid = sa; pwd=123")
+        public NoteBoardDbContext():base("Server=localhost;Database=NoteBoardDB;Trusted_Connection=True;")
         {
             Database.SetInitializer(new NoteBoardInitializer());
         }

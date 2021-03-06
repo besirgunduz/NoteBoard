@@ -21,7 +21,7 @@ namespace NoteBoard.DAL.Mapping
                 .WithMany(a => a.Notes)
                 .HasForeignKey(a => a.UserID);
 
-            Map(a => a.MapInheritedProperties()); // kalıtım alınana classtaki propertyler diğer tüm tablolarda kolon olarak oluşur
+            Map(a => a.MapInheritedProperties()); // kalıtım alınan classtaki propertyler diğer tüm tablolarda kolon olarak oluşur
 
             HasKey(a => a.NoteID);
             Property(a => a.NoteID).HasDatabaseGeneratedOption(DatabaseGeneratedOption.Identity);

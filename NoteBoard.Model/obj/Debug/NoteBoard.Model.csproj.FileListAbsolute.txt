@@ -16,3 +16,9 @@ C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Mo
 C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Model.csproj.CoreCompileInputs.cache
 C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Model.dll
 C:\Users\besir\Desktop\Projeler\NOTEBOARD\NoteBoard.Model\obj\Debug\NoteBoard.Model.pdb
+C:\Users\90531\Desktop\Full\NoteBoard\NoteBoard.Model\bin\Debug\NoteBoard.Model.dll
+C:\Users\90531\Desktop\Full\NoteBoard\NoteBoard.Model\bin\Debug\NoteBoard.Model.pdb
+C:\Users\90531\Desktop\Full\NoteBoard\NoteBoard.Model\obj\Debug\NoteBoard.Model.csprojAssemblyReference.cache
+C:\Users\90531\Desktop\Full\NoteBoard\NoteBoard.Model\obj\Debug\NoteBoard.Model.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\Full\NoteBoard\NoteBoard.Model\obj\Debug\NoteBoard.Model.dll
+C:\Users\90531\Desktop\Full\NoteBoard\NoteBoard.Model\obj\Debug\NoteBoard.Model.pdb
