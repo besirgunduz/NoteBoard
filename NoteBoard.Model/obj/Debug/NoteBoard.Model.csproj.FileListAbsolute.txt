@@ -22,3 +22,8 @@ C:\Users\90531\Desktop\Full\NoteBoard\NoteBoard.Model\obj\Debug\NoteBoard.Model.
 C:\Users\90531\Desktop\Full\NoteBoard\NoteBoard.Model\obj\Debug\NoteBoard.Model.csproj.CoreCompileInputs.cache
 C:\Users\90531\Desktop\Full\NoteBoard\NoteBoard.Model\obj\Debug\NoteBoard.Model.dll
 C:\Users\90531\Desktop\Full\NoteBoard\NoteBoard.Model\obj\Debug\NoteBoard.Model.pdb
+C:\Users\90531\source\repos\NoteBoard\NoteBoard.Model\bin\Debug\NoteBoard.Model.dll
+C:\Users\90531\source\repos\NoteBoard\NoteBoard.Model\bin\Debug\NoteBoard.Model.pdb
+C:\Users\90531\source\repos\NoteBoard\NoteBoard.Model\obj\Debug\NoteBoard.Model.csproj.CoreCompileInputs.cache
+C:\Users\90531\source\repos\NoteBoard\NoteBoard.Model\obj\Debug\NoteBoard.Model.dll
+C:\Users\90531\source\repos\NoteBoard\NoteBoard.Model\obj\Debug\NoteBoard.Model.pdb

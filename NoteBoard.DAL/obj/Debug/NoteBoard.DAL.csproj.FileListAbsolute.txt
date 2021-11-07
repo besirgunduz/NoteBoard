@@ -54,3 +54,17 @@ C:\Users\90531\Desktop\Full\NoteBoard\NoteBoard.DAL\obj\Debug\NoteBoard.DAL.cspr
 C:\Users\90531\Desktop\Full\NoteBoard\NoteBoard.DAL\obj\Debug\NoteBoard.DAL.csproj.CopyComplete
 C:\Users\90531\Desktop\Full\NoteBoard\NoteBoard.DAL\obj\Debug\NoteBoard.DAL.dll
 C:\Users\90531\Desktop\Full\NoteBoard\NoteBoard.DAL\obj\Debug\NoteBoard.DAL.pdb
+C:\Users\90531\source\repos\NoteBoard\NoteBoard.DAL\bin\Debug\NoteBoard.DAL.dll.config
+C:\Users\90531\source\repos\NoteBoard\NoteBoard.DAL\bin\Debug\NoteBoard.DAL.dll
+C:\Users\90531\source\repos\NoteBoard\NoteBoard.DAL\bin\Debug\NoteBoard.DAL.pdb
+C:\Users\90531\source\repos\NoteBoard\NoteBoard.DAL\bin\Debug\EntityFramework.dll
+C:\Users\90531\source\repos\NoteBoard\NoteBoard.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\90531\source\repos\NoteBoard\NoteBoard.DAL\bin\Debug\NoteBoard.Model.dll
+C:\Users\90531\source\repos\NoteBoard\NoteBoard.DAL\bin\Debug\NoteBoard.Model.pdb
+C:\Users\90531\source\repos\NoteBoard\NoteBoard.DAL\bin\Debug\EntityFramework.xml
+C:\Users\90531\source\repos\NoteBoard\NoteBoard.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\90531\source\repos\NoteBoard\NoteBoard.DAL\obj\Debug\NoteBoard.DAL.csproj.AssemblyReference.cache
+C:\Users\90531\source\repos\NoteBoard\NoteBoard.DAL\obj\Debug\NoteBoard.DAL.csproj.CoreCompileInputs.cache
+C:\Users\90531\source\repos\NoteBoard\NoteBoard.DAL\obj\Debug\NoteBoard.DAL.csproj.CopyComplete
+C:\Users\90531\source\repos\NoteBoard\NoteBoard.DAL\obj\Debug\NoteBoard.DAL.dll
+C:\Users\90531\source\repos\NoteBoard\NoteBoard.DAL\obj\Debug\NoteBoard.DAL.pdb
